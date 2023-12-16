@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpeechAndCopy/static/css/main.7b6aacdf.css",
+    "main.js": "/SpeechAndCopy/static/js/main.a7ab1768.js",
+    "index.html": "/SpeechAndCopy/index.html",
+    "main.7b6aacdf.css.map": "/SpeechAndCopy/static/css/main.7b6aacdf.css.map",
+    "main.a7ab1768.js.map": "/SpeechAndCopy/static/js/main.a7ab1768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6aacdf.css",
+    "static/js/main.a7ab1768.js"
+  ]
+}
